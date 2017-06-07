@@ -42,7 +42,7 @@ run bundle install like so:
 ```sh
 $ gem install bundler
 $ cd hw-ruby-intro
-$ bundle
+$ bundle install
 ```
 
 When the above completes successfully you'll have RSpec installed and can
